@@ -26,3 +26,5 @@ if(age >= 18){
 } else {
     System.Console.WriteLine($"{name}, don't give out your info.");
 }
+
+System.Console.WriteLine($"Bye, {name}");
